@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-tu-calor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Noche sin tu calor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-tu-calor/) |
+| **Get License** | [Get a Licensing Quote for Noche sin tu calor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-tu-calor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Otra vez la luna cae y yo pensándote
+> Con el humo en el cristal, sigo buscándote
+> Me dejaste el alma fría y la piel quemándome
+> Nena, esta noche es larga sin tu calor, extrañándote
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
