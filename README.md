@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-tu-calor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche sin tu calor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-tu-calor/) |
+| **Get License** | [Official Music Licensing for Noche sin tu calor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-tu-calor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b58f22338b50c6274d856d26f5e02f2db742e97ad47e0592542d926ab76815d0` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

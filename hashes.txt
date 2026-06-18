@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche sin tu calor
+
+This log tracks the cryptographic history and versioning for the song **Noche sin tu calor** (noche-sin-tu-calor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:17:40.194651 | `v1` | `b58f22338b50c6274d856d26f5e02f2db742e97ad47e0592542d926ab76815d0` | `5f74fd7f718f24c241545ab7035ecf9e1330ff5c247566bf0150061c65ccb535` | `2026-06-18_noche-sin-tu-calor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
